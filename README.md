@@ -1,9 +1,10 @@
 # Deployment Skills
 
-Reusable Codex deployment skills extracted from real production and staging rollout sessions.
+Reusable Codex skills extracted from real workflows and product-development sessions.
 
 Current skills:
 
-- `skills/al-fanar-school-deploy/SKILL.md`
+- `skills/al-fanar-school-deploy/SKILL.md` — deployment and operations workflow for the Al-Fanar school stack.
+- `skills/product-review-os/SKILL.md` — review-first product architecture system for auditing PRDs, designs, and implementations against the whole product before implementation.
 
-This repository intentionally contains procedural guidance only. It must never contain secrets.
+The repository contains reusable procedural guidance and templates. It must never contain secrets.
